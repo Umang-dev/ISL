@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186317790034",
+    "project_id": "international-guide-app",
+    "storage_bucket": "international-guide-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186317790034:android:58432170995199c421f88b",
+        "android_client_info": {
+          "package_name": "com.example.isl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-M-RlnpkL6rvC_d5h-yVO-eNCmm7KLgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
